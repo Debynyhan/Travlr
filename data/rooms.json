@@ -1,0 +1,20 @@
+[
+  {
+    "name": "First Class Room",
+    "image": "first-class.jpg",
+    "description": "<p>The First Class Room offers a luxurious and comfortable stay for discerning travelers. With its elegant design and top-notch amenities, guests can indulge in a truly exceptional experience. Whether you're traveling for business or pleasure, the First Class Room is the perfect choice for a memorable stay.</p>",
+    "rate": "220 / Day"
+  },
+  {
+    "name": "Deluxe Room",
+    "image": "deluxe.jpg",
+    "description": "<p>Coral Gardens is a stunning reef located in the Pacific Ocean. It is known for its vibrant coral formations, which provide a habitat for a wide variety of marine life. Visitors can snorkel or dive among the coral gardens and see the amazing diversity of fish, sea turtles, and other creatures that call this reef home.</p>",
+    "rate": "150 / Day"
+  },
+  {
+    "name": "Suite Room",
+    "image": "suite.jpg",
+    "description": "<p>The Great Barrier Reef is the largest coral reef system in the world, stretching over 2,300 kilometers along the coast of Australia. It is home to an incredible diversity of marine life, including over 1,500 species of fish, 411 species of hard corals, and countless other creatures.</p>",
+    "rate": "180 / Day"
+  }
+]
