@@ -22,7 +22,7 @@ const handlebars = require('hbs');
 require('./app_api/models/db');
 require('./app_api/config/passport');
 require('./app_api/models/user');
-// require('./app_api/models/travlr');
+require('./app_api/models/travlr');
 const app = express();
 
 
